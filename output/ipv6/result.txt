@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-22 03:11:55,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8
+2025-06-24 03:12:06,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8
@@ -115,8 +115,13 @@ CETV1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/22
 深圳卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 
 ☘️浙江频道,#genre#
+浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
+浙江钱江台,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?fbl=
 浙江钱江台,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江经济,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江数码时代,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 龙泉新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed,
 遂昌新闻综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
 衢江新闻综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed;http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8zzhed;http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
@@ -156,6 +161,7 @@ CETV1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/22
 南京教科,https://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
 南京新闻综合,http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
 南京新闻综合,https://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
+无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=978cd8731706199708
 淮安影院娱乐,http://live1.habctv.com/ysylsl/sd/live.m3u8
 
 ☘️湖南频道,#genre#
@@ -317,6 +323,7 @@ CCTV-5+,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000506/index.m3u8
 金鹰卡通,http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓动画,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 
 🎮游戏频道,#genre#
