@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-02 03:19:15,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8
+2026-02-04 03:40:39,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8
@@ -28,8 +28,8 @@ CCTV-11,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000508/index.m3u8
 CCTV-11,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225597/index.m3u8
 CCTV-12,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000509/index.m3u8
 CCTV-12,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225731/index.m3u8
+CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 CCTV-13,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000510/index.m3u8
-CCTV-13,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8
 CCTV-14,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000511/index.m3u8
 CCTV-14,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225732/index.m3u8
 CCTV-15,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000512/index.m3u8
@@ -275,6 +275,8 @@ CETV2,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/50/20240709/index.m3u8?
 延边卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 延边卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 
+☘️云南频道,#genre#
+
 ☘️青海频道,#genre#
 安多卫视,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing
@@ -303,6 +305,7 @@ CHC动作电影,http://eastscreen.tv/ooooo.php
 靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
 靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
 经典电影,https://yylunbo.ottiptv.cc/yy/1414812324
+东森洋片,https://hls.iill.top/api/dsyp/index.m3u8
 
 🎥咪咕直播,#genre#
 咪咕直播2,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
