@@ -1,8 +1,9 @@
 🕘️更新时间,#genre#
-2026-03-16 03:22:31,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
+2026-03-18 03:50:38,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 
 📺央视频道,#genre#
 CCTV-5,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
+CCTV-5+,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
 CCTV-11,http://69.30.246.194/live/cctv11.m3u8
 CCTV-12,http://69.30.246.194/live/cctv12.m3u8
 CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
@@ -17,7 +18,10 @@ CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 📡卫视频道,#genre#
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
+湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
+广西卫视,http://107.150.60.122/live/gxwshd.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
@@ -43,8 +47,8 @@ CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 新昌生活,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
 余杭未来E,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
-中国蓝新闻,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 中国蓝新闻,https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8?
+中国蓝新闻,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 
 ☘️北京频道,#genre#
 北京新闻,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv9_1/index.m3u8?adapt=0&BR=audio
@@ -74,7 +78,6 @@ CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 ☘️陕西频道,#genre#
 
 ☘️福建频道,#genre#
-厦门卫视,http://125.42.150.214:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️海南频道,#genre#
 
@@ -98,7 +101,7 @@ CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 ☘️山东频道,#genre#
 
 ☘️山西频道,#genre#
-太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;tpid=1516989100&amp;type=0
+太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;amp;tpid=1516989100&amp;amp;type=0
 太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0
 
 ☘️安徽频道,#genre#
@@ -120,7 +123,8 @@ CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 
 🎬电影频道,#genre#
-天映经典,http://pull-vivek.speedws.com/live/aaatyjd.flv
+CHC家庭影院,http://156.238.248.80:8880/play/59.m3u8
+CHC动作电影,http://156.238.248.80:8880/play/58.m3u8
 天映经典,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165791
 
 🎥咪咕直播,#genre#
