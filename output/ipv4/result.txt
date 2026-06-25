@@ -1,9 +1,8 @@
 🕘️更新时间,#genre#
-2026-06-24 04:58:36,http://198.204.240.250:82/live/cctv1.m3u8
+2026-06-26 04:51:29,http://198.204.240.250:82/live/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
-CCTV-1,https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
 CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
@@ -17,8 +16,6 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 
 📡卫视频道,#genre#
-广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
-浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
@@ -28,20 +25,19 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 东南卫视,http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
-广西卫视,http://107.150.60.122/live/gxwshd.m3u8
 广西卫视,http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
+广西卫视,http://107.150.60.122/live/gxwshd.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 宁夏卫视,http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
 陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
-陕西卫视,http://107.150.60.122/live/snwshd.m3u8
 四川卫视,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
 西藏卫视,http://107.150.60.122/live/xzws.m3u8
 云南卫视,http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
 
 ☘️广东频道,#genre#
-广东珠江,https://iptv.catvod.com/catvod?id=%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F&line=1
 广东珠江,https://iptv.catvod.com/catvod?id=%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F&line=2
+广东珠江,https://iptv.catvod.com/catvod?id=%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F&line=1
 
 ☘️浙江频道,#genre#
 嘉兴新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
